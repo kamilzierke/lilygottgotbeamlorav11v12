@@ -19,7 +19,7 @@ Here is a detailed list of components included on the Lilygo TTGO T-Beam LoRa V1
 | **GPS Flash**        | 24AA32A                                                        |![obraz](https://github.com/kamilzierke/lilygottgotbeamlorav11v12/assets/67487992/07592282-7e65-43e0-bd46-ae4148658ce7)       |
 | **LoRa Module**      | Lilygo 433/470-MHz LORA32 <br> HPDTeK HPD14A V1.2 (SX1278 433MHz)   |![obraz](https://github.com/kamilzierke/lilygottgotbeamlorav11v12/assets/67487992/06727c8d-ba6d-4614-a508-1ca691e0a568) ![obraz](https://github.com/kamilzierke/lilygottgotbeamlorav11v12/assets/67487992/c6b1cc36-8943-4ab7-9c34-9ea8feeebcdb)|
 | **Main Battery**     | 18650 (+ NCE3401AY MOSFET)                                     |                                                                                           |
-| **Backup Battery**   | MS412FE (MS Lithium Rechargeable Battery MS412FE)              |                                                                                           |
+| **Backup Battery**   | MS412FE (MS Lithium Rechargeable Battery MS412FE)              |![obraz](https://github.com/kamilzierke/lilygottgotbeamlorav11v12/assets/67487992/9ecc39a5-b308-4bd2-aca2-65f9c4ac4c98)|
 
 
 
