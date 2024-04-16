@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository has been created to address the fragmentation of information and frequent misidentification of components related to the Lilygo TTGO T-Beam LoRa V1.1 and V1.2 boards. It aims to provide a detailed resource covering the components used in my unit, instructions on how to control them, and an overview of their capabilities.
+This repository has been created to address the fragmentation of information and frequent misidentification of components related to the Lilygo TTGO T-Beam LoRa V1.2 board. It aims to provide a detailed resource covering the components used in my unit, instructions on how to control them, and an overview of their capabilities.
 
 ## Components
 
-Here is a detailed list of components included on the Lilygo TTGO T-Beam LoRa V1.1/V1.2:
+Here is a detailed list of components included on the Lilygo TTGO T-Beam LoRa V1.2:
 
 | Component            | Model / Specification                                          | Image                                                                                                                        |
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
